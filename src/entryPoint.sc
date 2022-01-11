@@ -50,3 +50,6 @@ theme: /
     state: Fallback
         event!: noMatch
         a: Я не понимаю.
+    state: Привет
+        intent!: /привет
+        a: Привет!!!
